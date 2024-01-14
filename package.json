@@ -12,7 +12,6 @@
   "license": "ISC",
   "dependencies": {
     "commander": "^11.1.0",
-    "nanoid": "^5.0.4",
     "nodemon": "^3.0.2",
     "uuidv4": "^6.2.13"
   },
